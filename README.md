@@ -11,7 +11,7 @@ Perfect for beginners and learners who want to build a strong foundation in **Nu
 
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 |-------------|----------------|----------------------|
-| [task 1.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%201.py) | 🎯 1D Array Indexing (first, third, last element) | [task 1.png](task%201.png) |
+| [task 1.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%201.py) | 🎯 1D Array Indexing (first, third, last element) | ![task 1.png](task%201.png) |
 | [task 2.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%202.py) | 🎯 2D Array Indexing (row/column elements) | [task 2.png](task%202.png) |
 | [task 3.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%203.py) | 🎯 3D Array Indexing (block, row, col) | [task 3.png](task%203.png) |
 | [task 4.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%204.py) | ✨ Fancy Indexing (extracting elements using index lists) | [task 4.png](task%204.png) |
