@@ -12,20 +12,20 @@ Perfect for beginners and learners who want to build a strong foundation in **Nu
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 |-------------|----------------|----------------------|
 | [task 1.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%201.py) | 🎯 1D Array Indexing (first, third, last element) | ![task 1.png](task%201.png) |
-| [task 2.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%202.py) | 🎯 2D Array Indexing (row/column elements) | [task 2.png](task%202.png) |
-| [task 3.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%203.py) | 🎯 3D Array Indexing (block, row, col) | [task 3.png](task%203.png) |
-| [task 4.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%204.py) | ✨ Fancy Indexing (extracting elements using index lists) | [task 4.png](task%204.png) |
-| [task 5.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%205.py) | ✅ Boolean Indexing (conditions: greater than, even numbers) | [task 5.png](task%205.png) |
-| [task 6.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%206.py) | ✂️ 1D Array Slicing (range, step, reverse) | [task 6.png](task%206.png) |
-| [task 7.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%207.py) | ✂️ 2D Slicing – Rows (first two, last two rows) | [task 7.png](task%207.png) |
-| [task 8.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%208.py) | ✂️ 2D Slicing – Columns (first two, last column) | [task 8.png](task%208.png) |
-| [task 9.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%209.py) | 🔲 Sub-matrix Extraction (top-left & bottom-right) | [task 9.png](task%209.png) |
-| [task 10.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2010.py) | ↔️ Negative Slicing in 2D (reverse rows & columns) | [task 10.png](task%2010.png) |
-| [task 11.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2011.py) | 🧊 3D Slicing – Blocks (first block, second block) | [task 11.png](task%2011.png) |
-| [task 12.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2012.py) | 🧊 3D Slicing – Rows & Columns (first row, last col of each block) | [task 12.png](task%2012.png) |
-| [task 13.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2013.py) | 🎯 Mixed Indexing + Slicing (single element + submatrix) | [task 13.png](task%2013.png) |
-| [task 14.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2014.py) | ✅ Boolean + Slicing (conditions + last 3 elements) | [task 14.png](task%2014.png) |
-| [task 15.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2015.py) | 🚀 Advanced 3D Mixed (middle block, last row, condition-based) | [task 15.png](task%2015.png) |
+| [task 2.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%202.py) | 🎯 2D Array Indexing (row/column elements) | ![task 2.png](task%202.png) |
+| [task 3.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%203.py) | 🎯 3D Array Indexing (block, row, col) | ![task 3.png](task%203.png) |
+| [task 4.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%204.py) | ✨ Fancy Indexing (extracting elements using index lists) | ![task 4.png](task%204.png) |
+| [task 5.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%205.py) | ✅ Boolean Indexing (conditions: greater than, even numbers) | ![task 5.png](task%205.png) |
+| [task 6.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%206.py) | ✂️ 1D Array Slicing (range, step, reverse) | ![task 6.png](task%206.png) |
+| [task 7.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%207.py) | ✂️ 2D Slicing – Rows (first two, last two rows) | ![task 7.png](task%207.png) |
+| [task 8.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%208.py) | ✂️ 2D Slicing – Columns (first two, last column) | ![task 8.png](task%208.png) |
+| [task 9.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%209.py) | 🔲 Sub-matrix Extraction (top-left & bottom-right) | ![task 9.png](task%209.png) |
+| [task 10.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2010.py) | ↔️ Negative Slicing in 2D (reverse rows & columns) | ![task 10.png](task%2010.png) |
+| [task 11.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2011.py) | 🧊 3D Slicing – Blocks (first block, second block) | ![task 11.png](task%2011.png) |
+| [task 12.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2012.py) | 🧊 3D Slicing – Rows & Columns (first row, last col of each block) | ![task 12.png](task%2012.png) |
+| [task 13.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2013.py) | 🎯 Mixed Indexing + Slicing (single element + submatrix) | ![task 13.png](task%2013.png) |
+| [task 14.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2014.py) | ✅ Boolean + Slicing (conditions + last 3 elements) | ![task 14.png](task%2014.png) |
+| [task 15.py](indexing%20and%20slicing%20of%20numpy%20arrays/task%2015.py) | 🚀 Advanced 3D Mixed (middle block, last row, condition-based) | ![task 15.png](task%2015.png) |
 
 ---
 
