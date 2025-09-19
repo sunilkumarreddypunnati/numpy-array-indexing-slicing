@@ -30,12 +30,12 @@ Perfect for beginners and learners who want to build a strong foundation in **Nu
 ---
 
 ## ✅ What I Practiced
-- 🔹 Accessing elements using **basic indexing (1D, 2D, 3D)**
-- 🔹 Extracting data using **fancy indexing**  
-- 🔹 Filtering arrays using **boolean masks**  
-- 🔹 Performing **slicing operations** (range, step, reverse)  
-- 🔹 Extracting **sub-matrices** & **blocks in 3D arrays**  
-- 🔹 Combining **indexing, slicing & conditions** for advanced use cases  
+ 🔹 Accessing elements using **basic indexing (1D, 2D, 3D)**
+ 🔹 Extracting data using **fancy indexing**  
+ 🔹 Filtering arrays using **boolean masks**  
+ 🔹 Performing **slicing operations** (range, step, reverse)  
+ 🔹 Extracting **sub-matrices** & **blocks in 3D arrays**  
+ 🔹 Combining **indexing, slicing & conditions** for advanced use cases  
 
 ---
 
