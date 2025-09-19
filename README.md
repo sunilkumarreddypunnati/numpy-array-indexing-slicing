@@ -51,7 +51,7 @@ Perfect for beginners and learners who want to build a strong foundation in **Nu
 
 ## 🔗 Connect With Me
 🌐 [LinkedIn]-(https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
-💻 [GitHub]-(https://github.com)  
+💻 [GitHub]-(https://github.com/sunilkumarreddypunnati)  
 
 ---
 
